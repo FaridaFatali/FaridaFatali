@@ -1,4 +1,4 @@
-Welcome to my workspace! U+1F30E
+**Welcome to my workspace!**
 
 ![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/spidertocat.png)
 
