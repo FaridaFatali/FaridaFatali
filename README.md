@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Java
 - 🔭 I’m currently working on new project in Java
-- 📫 How to reach me: faridafatali.91@gmail.com
+- 📫 How to reach me: ![](faridafatali.91@gmail.com)
 - ⚡ Enjoy coding!
 
 
