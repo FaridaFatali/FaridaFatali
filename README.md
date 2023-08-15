@@ -2,6 +2,31 @@
 
 ![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/spidertocat.png)
 
+
+
+![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif)
+
+
+![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/phone-on.gif)
+
+
+
+![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
+
+![](https://raw.githubusercontent.com/TotallyNotChase/glitch-this/master/example/glitched2.gif)
+
+
+
+![](https://raw.githubusercontent.com/jglovier/gifs/gh-pages/amazed/hepburn-sunglasses-off.gif)
+
+
+![](https://raw.githubusercontent.com/jglovier/gifs/gh-pages/fail/cat-fail.gif)
+
+
+
+
+
 <!--
 **FaridaFatali/FaridaFatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
