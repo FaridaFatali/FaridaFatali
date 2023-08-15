@@ -1,4 +1,6 @@
-### Hi there 👋
+Welcome to my workspace! U+1F30E
+
+![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/spidertocat.png)
 
 <!--
 **FaridaFatali/FaridaFatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
