@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning `Java`
-- 🔭 I’m currently working on new project in `Java projects`
+- 🔭 I’m currently working on `Java projects`
 - 📫 How to reach me:
 
 ㅤ[![](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/45px/instagram.png?raw=true)](https://www.instagram.com/farida.fatali) [![](https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/45px/linkedin.png)](https://www.linkedin.com/in/farida-fatali-7790a723b) [![](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/45px/twitter.png?raw=true)](https://twitter.com/Farida_Fatali) [![](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/45px/medium.png?raw=true)](https://faridafatali.medium.com)
