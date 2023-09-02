@@ -37,19 +37,6 @@
 ![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 ###
-### **Let people watch you like a movie.**
-
-![](https://raw.githubusercontent.com/TotallyNotChase/glitch-this/master/example/glitched2.gif)
-
-###
-### **Let them sometimes not understand what you are doing, just continue doing it :)**
-
-![](https://raw.githubusercontent.com/jglovier/gifs/gh-pages/amazed/hepburn-sunglasses-off.gif)
-
-###
-### **And keep your positive :D**
-
-![](https://raw.githubusercontent.com/jglovier/gifs/gh-pages/fail/cat-fail.gif)
 
 
 
