@@ -26,7 +26,6 @@
 
 ![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif)
 
-##
 
 ##
 ## **You can always meet trouble, don't give up, start over.**
