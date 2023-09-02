@@ -27,9 +27,6 @@
 ![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif)
 
 ##
-## **Discipline is the key to everything.**
-
-![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/phone-on.gif)
 
 ##
 ## **You can always meet trouble, don't give up, start over.**
