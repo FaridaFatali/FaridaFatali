@@ -17,10 +17,7 @@
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-##
 
-
-##
 ## **You can always meet trouble, don't give up, start over.**
 
 ![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
