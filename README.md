@@ -20,9 +20,6 @@
 ##
 
 
-
-![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/spidertocat.png)
-
 ##
 ## **You can always meet trouble, don't give up, start over.**
 
